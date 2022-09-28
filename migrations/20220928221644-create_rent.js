@@ -24,6 +24,7 @@ module.exports = {
      });
 
   },
+  //HIII
 
   async down (queryInterface, Sequelize) {
     /**
